@@ -55,29 +55,7 @@ graph LR
     1. 역대급 중단이 발생한 일자와 그 원인은 무엇인가?
     2. 중단 사태로 피해를 입은 분야들과 피해 금액은 얼마인가?
 ```
-
-- 데이터 생성을 위한 셋팅
-    
-    데이터 생성을 위해 다음과 같은 local llm 프로그램을 사용
-    
-    1. 플랫폼에 맞게 설치
-        
-        [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
-        
-    2. 모델 다운로드
-        
-        현재 생성한 데이터는 **Meta-Llama-3.1-8B-Instruct 모델 중 경량화된 모델(Q4_K_M)으로 실행**
-        
-        ![**Meta-Llama-3.1-8B-Instruct 모델 중 선택하여 다운로드**](https://prod-files-secure.s3.us-west-2.amazonaws.com/cc77f687-143d-40fa-a55f-eab2b918f532/e5a08a31-7550-4aeb-9660-c00fa51769a9/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-01-12_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_8.02.37.png)
-        
-        **Meta-Llama-3.1-8B-Instruct 모델 중 선택하여 다운로드**
-        
-    3. 모델 실행 확인
-        
-        서버가 실행되면 다음과 같이 추론이 동작하는 지 확인할 수 있음.
-        
-        ![스크린샷 2025-01-12 오후 8.15.16.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cc77f687-143d-40fa-a55f-eab2b918f532/7985cc38-626b-41f8-8e35-d05a8d72263c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2025-01-12_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_8.15.16.png)
-        
+     
 
 ---
 
