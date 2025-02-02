@@ -191,7 +191,7 @@ LLM을 통해 질문(멀티)로부터 질문들을 분해
     - gemma-2-2b-it 모델 추가 학습 전에는 명확하게 질문을 구분하지 못하는 경우가 많음
     - gemma-2-2b-it 모델 추가 학습 후 답변이 개선 되는 것을 확인할 수 있음
     
-    [gemma_2_2b_results_out.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/cc77f687-143d-40fa-a55f-eab2b918f532/708d6f00-c2d9-4c47-b302-955797f80e8d/gemma_2_2b_results_out.xlsx)
+    [gemma_2_2b_results_out.xlsx](https://github.com/mjlee5929/C_H_M/raw/refs/heads/main/gemma_2_2b_results_out.xlsx)
     
 
 ---
